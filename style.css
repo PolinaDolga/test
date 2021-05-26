@@ -1,0 +1,48 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:lightblue;
+    color:white;
+    
+
+}
+h1{
+    color :lightblue;
+    text-align :center;
+    
+    
+
+}
+footer{
+    border-color :lightblue;
+    border-style: solid;
+    padding :5px;
+    margin: 10px;}
+
+    nav{
+        background-color:PeachPuff;
+        
+    }
+    nav a {
+        margin :20px;
+        font-size :20px;
+        text-decoration: none;
+        color :white;
+    }
+main p img{
+         border-color: pink;
+         
+        background-color: pink;
+        padding :5px;
+        margin: 5 px;
+    }
+    h2{
+        color: lightblue;
+        text-align: center;
+
+    }
+     a{
+        text-decoration: none;
+        
+    }
